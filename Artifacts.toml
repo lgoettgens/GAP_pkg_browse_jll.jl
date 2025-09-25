@@ -1,0 +1,86 @@
+[[GAP_pkg_browse]]
+arch = "aarch64"
+git-tree-sha1 = "45e007771682669775fa27a71a756c799fe5bbf3"
+os = "macos"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "e262e0d286843c4c9a48a2544f30b039efcfb3544d13f5f46f54ea130a0ed657"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_browse]]
+arch = "aarch64"
+git-tree-sha1 = "d6ec7efce59f4398291f06ddaa8a3c54dc847728"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "73121c0d1730fafd9c0d8dd40df7ac0a75643f5f1d059c517534f69d69d7fa66"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_browse]]
+arch = "aarch64"
+git-tree-sha1 = "2b53b036380da267c902cf1cf7658b5861c0f85c"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "320f62239673870c94ac0dbcc7582ebbc2322897996d767c822289b0c54e946f"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_browse]]
+arch = "aarch64"
+git-tree-sha1 = "990d8c831f87f1487e20900cb08582dd2d8e2f64"
+os = "freebsd"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "f9772e36dd6074865b3aca92e0bb80554c8133ae565971f527b8cb81a06a1c68"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_browse]]
+arch = "powerpc64le"
+git-tree-sha1 = "941a727d9a55649d48ee12046312f73d29dd5f2a"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "4cdc1c30499532c7927ee4c8f7ce77aae04a5e2f18467eb8077f2104323af1bc"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_browse]]
+arch = "riscv64"
+git-tree-sha1 = "88faa4379e9edff4ae1d8526f01a0034fdff7c67"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "13800e3e0507ea11934c84627152bb4283abd12627602a4549278e4c5e9896b2"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_browse]]
+arch = "x86_64"
+git-tree-sha1 = "182f927f71a055419ffd7fd877177f0d2285552e"
+os = "macos"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "7eff00d781b94c4976e8f8b54f120dbe7ece281c61ce738001c4e75612438271"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_browse]]
+arch = "x86_64"
+git-tree-sha1 = "5ce2ca7d0f9944e67f6c2503dc12f0c687b720fe"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "d22ec5145105d3cb9351d788bb9592a56812c91a795704b6ee11be72bd1e1a7c"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_browse]]
+arch = "x86_64"
+git-tree-sha1 = "f56c7c26744706dd43ac9574f0102174aa0bb6f1"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "bb6f68380e8ad06ea5ff290df7eef1f9ff795b936936c3f19f165a6070ca4453"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_browse]]
+arch = "x86_64"
+git-tree-sha1 = "7531d9944d3507ed8504142afd87f91e47c373cb"
+os = "freebsd"
+
+    [[GAP_pkg_browse.download]]
+    sha256 = "616e323202fd03618a79124028df7633d5f08336d1a72e5e361a718ec3e3f90b"
+    url = "https://github.com/lgoettgens/GAP_pkg_browse_jll.jl/releases/download/GAP_pkg_browse-v101.82100.0+0/GAP_pkg_browse.v101.82100.0.x86_64-unknown-freebsd.tar.gz"
